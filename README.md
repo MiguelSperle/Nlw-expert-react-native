@@ -90,4 +90,4 @@ nlw-expert-react-native
 
 ### 🎥 Implementation Video
 
-https://github.com/MiguelSperle/nlw-expert-react-native/assets/102910354/6790b7e9-ec5c-4b79-ae3c-c6d7b4b0806d
+https://github.com/MiguelSperle/nlw-expert-react-native/assets/102910354/989c9325-12a6-4662-90c5-43de60f23c78
