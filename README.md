@@ -71,6 +71,7 @@ npx expo start
 
 ### Folder Structure
 
+```plainText
 app
 .
 ├── src                         # Source files
@@ -83,3 +84,4 @@ app
 .
 .
 └── README.md
+```
