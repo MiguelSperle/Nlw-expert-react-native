@@ -1,6 +1,6 @@
 # Orders | Mobile
 
-The Orders project was developed in an event called NLW EXPERT of plataform Rocketseat, summarizing in this project, you can choose some snacks, and theirs quantity, in the end you are going to put your address and send, after that you are going to redirect for whatzapp and you are going to send your order with your address.
+The Orders project was developed in an event called NLW EXPERT of Rocketseat plataform, summarizing in this project, you can choose some snacks, and theirs quantity, in the end you are going to put your address and send, after that you are going to redirect for whatsapp and you are going to send your order with your address.
 
 ## Table of Contents
 - [My Process Below](#my-process-below)
