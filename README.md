@@ -69,10 +69,12 @@ npm install or yarn install
 npx expo start
 ```
 
-### Folder Structure
+---------------
+
+### 📂Folder Structure
 
 ```plainText
-app
+nlw-expert-react-native
 .
 ├── src                         # Source files
 │   ├── app                     # Aplication entry and screens
@@ -85,3 +87,5 @@ app
 .
 └── README.md
 ```
+
+### 🎥 Implementation Video
