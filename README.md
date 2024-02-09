@@ -4,12 +4,12 @@ The Orders project was developed in an event called NLW EXPERT of plataform Rock
 
 ## Table of Contents
 - [My Process Below](#my-process-below)
-- [Technologies Used](#technologies-used)
-- [What I improved and learned](#what-i-improved-and-learned)
-- [Links](#Links)
-- [How to Clone this Repository](#how-to-clone-this-repository)
-- [Folder Structure](#folder-structure)
-- [Implementation Video](#implementation-video)
+- [Technologies Used](#💡-technologies-used)
+- [What I improved and learned](#📚-what-i-improved-and-learned)
+- [Links](#🔗-Links)
+- [How to Clone this Repository](#🚀-how-to-clone-this-repository)
+- [Folder Structure](#📂-folder-structure)
+- [Implementation Video](#🎥-implementation-video)
 ---------------
 
 ## My Process Below
