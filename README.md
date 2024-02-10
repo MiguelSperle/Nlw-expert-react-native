@@ -9,7 +9,7 @@ The Orders project was developed in an event called NLW EXPERT of Rocketseat pla
 - [Links](#-Links)
 - [How to Clone this Repository](#-how-to-clone-this-repository)
 - [Folder Structure](#-folder-structure)
-- [Implementation Video](#-implementation-video)
+- [Screenshots](#-screenshots)
 ---------------
 
 ## My Process Below
