@@ -88,6 +88,12 @@ nlw-expert-react-native
 └── README.md
 ```
 
-### 🎥 Implementation Video
+---------------
 
-https://github.com/MiguelSperle/nlw-expert-react-native/assets/102910354/c099e174-ceff-407b-a0bc-43a3eb9fe4f1
+### 📸 Screenshots
+
+<div align="center">
+  <img width=200 src="https://i.imgur.com/WIr1gfQ.png"/>
+  <img width=200 src="https://i.imgur.com/COTmtvL.png"/>
+  <img width=200 src="https://i.imgur.com/6oFlQfM.png"/>
+</div>
