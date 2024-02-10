@@ -93,7 +93,7 @@ nlw-expert-react-native
 ### 📸 Screenshots
 
 <div align="center">
-  <img width=200 src="https://i.imgur.com/WIr1gfQ.png"/>
-  <img width=200 src="https://i.imgur.com/COTmtvL.png"/>
-  <img width=200 src="https://i.imgur.com/6oFlQfM.png"/>
+  <img width=200 src="https://i.imgur.com/2Ii5vlu.png"/>
+  <img width=200 src="https://i.imgur.com/cEtP7Lo.png"/>
+  <img width=200 src="https://i.imgur.com/bugSe6t.png"/>
 </div>
