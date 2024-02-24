@@ -40,7 +40,7 @@ export default function Cart() {
   }
 
   function handleOrder() {
-    // Esse trim remove antes e depois os espaços
+    // Esse trim() remove antes e depois os espaços
     if (address.trim().length === 0) {
       return Alert.alert('Pedido', 'informe os dados da entrega')
     }
