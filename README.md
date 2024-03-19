@@ -48,13 +48,13 @@ Learned more about Zustand and state management with it.
 ```⌨ Clone the repository```
 
 ```
-git clone https://github.com/MiguelSperle/nlw-expert-react-native.git
+git clone https://github.com/MiguelSperle/Nlw-expert-react-native.git
 ```
 
 ```📂 Access at folder```
 
 ```
-cd nlw-expert-react-native
+cd Nlw-expert-react-native
 ```
 
 ```📡 Install dependencies```
